@@ -6,4 +6,5 @@ Thank you for contacting Renasar Technologies Incorportated.
 <Say voice="alice">
 This is an automated outbound number used for alerting.  Please visit our website and use the contact form there to recieve a response to any issue.
 </Say>
+<Hangup />
 </Response>
