@@ -78,8 +78,10 @@
 - NOSQL = http://nosql-database.org/ = 150+ databases alternatives
 
 @products / @services / @technologies
-- aplus promises spec = https://github.com/promises-aplus/promises-spec
+
 - ab test framework = http://sixpack.seatgeek.com/
+- aplus promises spec = https://github.com/promises-aplus/promises-spec
+- searchcode = https://searchcode.com/  - find code in public modules of github to look for how others use specific libraries / modules / functions quickly and easily
 - ack = http://beyondgrep.com/ = grep++ for programmers
 - angular ui elements = http://angular-ui.github.io/
 - ascii diagrams for illustrations = http://asciiflow.com/ (and http://www.jave.de/figlet/figfont.html / Java Ascii Versatile Editor)
