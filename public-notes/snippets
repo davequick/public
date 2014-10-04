@@ -1,0 +1,17 @@
+
+# @snippets
+
+## Rollback 
+Roll back to a specific commit in the published repository.  If you want to commit on top of the current HEAD with the exact state at a different commit, undoing all the intermediate commits, then you can use `reset` to create the correct state of the index to make the commit.
+
+    # Reset the index to the desired tree
+    git reset 56e05fced
+    # Move the branch pointer back to the previous HEAD
+    git reset --soft HEAD@{1}
+    git commit -m "Revert to 56e05fced"
+    # Update working copy to reflect the new commit
+    git reset --hard
+
+
+## make npm global user writable rather than force a sudo all the time
+`sudo chown -R $USER /usr/local`
