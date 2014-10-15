@@ -14,14 +14,23 @@ function process(name, p) {
     p.
         then(function (value) {
                  console.log("1:" + name + ":" + value);
-                 return Q(1);
+                 return Q(1); //remember, this is only valid in the promise chain, the actual 
+                 //function called process will be over before this is ever called so this is 
+                 //NOT going to be something process returns.
              })
         .fail(function (err) {
                   console.log("2:" + name + ":" +  err);
-                  return Q(2);
+                  return Q(2); //remember, this is only valid in the promise chain, the actual 
+                  //function called process will be over before this is ever called so this is 
+                  //NOT going to be something process returns.
               })
         .fin(function () {
-                 console.log("3:" + name  )
+                 console.log("3:" + name  ) //remember, this is only valid in the promise chain, 
+                 //the actual function called process will not care about this in the least, the 
+                 //scope/lifetime of this is the lifetime of the function chain and will be 
+                 //executed when it gets to the fin() functions place on the Q stack associated 
+                 //with this promise chin (remember multiple finalizerscan exxist and will be 
+                 //called in original registration order)
              });
 }
 
