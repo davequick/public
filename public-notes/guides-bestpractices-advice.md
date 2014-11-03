@@ -1,4 +1,6 @@
 #@bestpractice @books and ebooks and extended guides
+* npm best practices and coding style = https://docs.npmjs.com/
+* docs = both http://apidocjs.com and http://swagger.io/ are decent for rest apis, http://usejsdoc.org/ good for inline 
 * node - node in production = http://qzaidi.github.io/2013/05/14/node-in-production/
 * 12 factor app methodology =  http://12factor.net/
 * angular app structure recommendations = https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/mobilebasic?pli=1

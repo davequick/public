@@ -1,4 +1,71 @@
 #misc notes
+http://strongloop.com/strongblog/node-js-loopback-api-gateway-sample-applications/?utm_source=nodeweekly&utm_medium=email
+
+http://www.codewars.com/dashboard
+
+https://github.com/dylang/observatory
+https://github.com/dylang/grunt-notify
+https://github.com/dylang/grunt-attention
+https://github.com/dylang/node-rss
+https://github.com/dylang/grunt-cat
+https://github.com/dylang/depcheck
+
+https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
+
+https://github.com/Polymer/designer
+
+http://square.github.io/intro-to-d3/
+http://strongloop.com/strongblog/node-js-loopback-api-gateway-sample-applications/?utm_source=nodeweekly&utm_medium=email
+
+https://github.com/crtr0/gifit?utm_source=nodeweekly&utm_medium=email
+
+https://github.com/gtramontina/ghooks?utm_source=nodeweekly&utm_medium=email git hooks 
+
+http://samwize.com/2014/01/31/the-best-documentation-generator-for-node/
+http://blog.fusioncharts.com/2013/12/jsdoc-vs-yuidoc-vs-doxx-vs-docco-choosing-a-javascript-documentation-generator/
+http://terryweiss.github.io/docstrap/themes/amelia/
+http://terryweiss.github.io/docstrap/themes/cerulean/
+https://github.com/terryweiss/docstrap
+http://jashkenas.github.io/docco/
+http://www.naturaldocs.org/
+
+http://www.aosabook.org/ and http://www.aosabook.org/en/git.html
+
+books:
+1. Data Journalism Handbook (http://datajournalismhandbook.org/)
+
+2. Free Software, Free Society (http://shop.fsf.org/product/free-software-free-society-2/)
+
+3. Free as in Freedom (http://static.fsf.org/nosvn/faif-2.0.pdf)
+
+4. Getting started with Open source development (http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pd f)
+
+5. Innovation Happens Elsewhere (http://dreamsongs.com/IHE/IHE.html)
+
+6. Open Advice: FOSS: What We Wish We Had Known When We Started (http://open-advice.org/)
+
+7. Producing Open Source Software (http://producingoss.com/)
+
+8. The Art of Community: Building the New Age of Participation: First edition (http://www.artofcommunityonline.org/downloads/jonobacon-theartofcommunity-1ed.pdf)
+
+9. The Art of Community: Building the New Age of Participation: Second edition (http://ubuntuone.com/0n352YwUjlcFR8PjIELH67)
+
+10. The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks (http://www.aosabook.org/en/index.html)
+
+11. The Cathedral and the Bazaar (http://www.catb.org/esr/writings/cathedral-bazaar/)
+
+12. The Future of Ideas (http://the-future-of-ideas.com/download/lessig_FOI.pdf)
+
+13. The Future of the Internet (http://futureoftheinternet.org/)
+
+14. The Performance of Open Source Applications (http://aosabook.org/en/)
+
+15. The Wealth of Networks: How Social Production Transforms Markets and Freedom (http://cyber.law.harvard.edu/wealth_of_networks/Main_Page)
+
+http://efytimes.com/e1/fullnews.asp?edid=128368
+
+
+
 * heat map of git users of a repository = https://github.com/rviscomi/red-dwarf @visualization
 * https://github.com/etsy/statsd
 * https://github.com/graphite-project/graphite-web
@@ -96,6 +163,7 @@
 * https://www.npmjs.org/package/threads_a_gogo
 * https://www.npmjs.org/package/paralleljs
 * http://howtonode.org/understanding-process-next-tick
+* mongoose storage of session data for express = https://github.com/dreyacosta/mongoose-store
 * 
  
 
