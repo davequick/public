@@ -25,6 +25,9 @@
 * less = pre-processor for css
 * leveldb = fast key value store from google
 * mongodb @db @storage
+* mongoose = ORM
+* waterline = https://github.com/balderdashy/waterline = An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more
+* sails = https://github.com/balderdashy/sails = realtime MVC for node.js
 * mongo tool = mongovue (windows), robomongo (windows/mac, java based)
 * mongraph combines mongo and neo4j for documentstorage database with graph-database relations. Build on NodeJS.
 * mosca is a node.js mqtt broker, which can be used

@@ -55,6 +55,10 @@
 * twix.js - moment.js plugin for time ranges @timerange @humanize
 * zachleat/Humane-Dates = 4 days ago, etc. for time differences
 
+## @db
+* mongoose = ORM for mongo
+* waterline = ORM for multiple backends https://github.com/balderdashy/waterline = Node.js with support for mysql, mongo, postgres, redis, and more
+
 ## @debug
 * longjohn, stack-trace, raw-stacktrace = http://www.mattinsler.com/post/26396305882/announcing-longjohn-long-stack-traces-for-node-jsa = handy tool for extended stack traces in async environment of node.js @stack and Q supports longtrace as well internally iso turn it on when debugging
 

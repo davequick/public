@@ -1,6 +1,8 @@
 #misc notes
 http://strongloop.com/strongblog/node-js-loopback-api-gateway-sample-applications/?utm_source=nodeweekly&utm_medium=email
 
+file drop for mac/pc similar to airdrop
+
 http://www.codewars.com/dashboard
 
 https://github.com/dylang/observatory
