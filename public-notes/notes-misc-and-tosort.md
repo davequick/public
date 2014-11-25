@@ -1,4 +1,61 @@
-#misc notes
+# misc notes
+* compiler for javascript as JIT = https://github.com/balderdashy/waterline
+* json diffing = https://www.npmjs.org/package/json-diff
+* nodejs flamegraphs netflix = http://techblog.netflix.com/2014/11/nodejs-in-flames.html?utm_source=javascriptweekly&utm_medium=email
+* servers for hackers = https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/
+* sails http://sailsjs.org/#/documentation/concepts/Assets
+ 
+## Ansible best practices
+* https://servercheck.in/blog/yaml-best-practices-ansible-playbooks-tasks
+* http://guides.spreecommerce.com/developer/ansible-ubuntu.html
+* https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+* https://raymii.org/s/tutorials/Ansible_-_Only_if_on_specific_distribution_or_distribution_version.html
+* zero downtime app updates = http://radar.oreilly.com/2013/07/zero-downtime-application-updates-with-ansible.html
+* was ec2 = http://docs.ansible.com/ec2_module.html
+* app updates = https://developer.rackspace.com/blog/automate-with-ansible/
+* http://docs.ansible.com/playbooks_delegation.html
+* http://docs.ansible.com/list_of_system_modules.html
+* https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+* https://coderwall.com/p/0xtstw/doing-an-apt-get-update-in-ansible-only-if-a-condition-is-met
+* "- apt: update_cache=yes cache_valid_time=3600"
+* http://docs.ansible.com/intro_inventory.html
+* http://docs.ansible.com/apt_module.html
+* http://docs.ansible.com/playbooks_conditionals.html#conditional-imports
+ 
+
+
+ 
+ 
+## json schema
+* http://json-schema.org/example2.html
+* http://tools.ietf.org/html/draft-fge-json-schema-validation-00
+* http://tools.ietf.org/html/draft-zyp-json-schema-04
+* http://tools.ietf.org/html/draft-luff-json-hyper-schema-00
+
+# virtual networks / dhcp
+* http://www.dit.upm.es/vnumlwiki/index.php/Example-DHCP 
+* http://www.cisco.com/c/en/us/support/docs/ip/dynamic-address-allocation-resolution/27470-100.html#understanding
+* dhcping http://linux.die.net/man/8/dhcping
+* http://serverfault.com/questions/345111/iptables-target-to-route-packet-to-specific-interface
+* ifconfig mac man https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/ifconfig.8.html
+* udp tunnel over ssh = http://superuser.com/questions/53103/udp-traffic-through-ssh-tunnel
+ 
+ 
+## ssh 
+* http://www.openssh.com/manual.html
+* 
+
+## node extensions
+* c / c++ extensions to node = https://github.com/olalonde/node-notify/blob/master/TUTORIAL.md
+* 
+
+## nginx
+* https://galaxy.ansible.com/list#/roles/856
+* Name-based virtual servers = http://nginx.org/en/docs/http/request_processing.html
+
+ 
+
+
 http://strongloop.com/strongblog/node-js-loopback-api-gateway-sample-applications/?utm_source=nodeweekly&utm_medium=email
 
 file drop for mac/pc similar to airdrop

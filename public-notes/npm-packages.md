@@ -125,10 +125,14 @@
 * alike = kNN Machine Learning helper @machinelearning
 * brain = neural network library, @machinelearning
 * classifier = Naive Bayesian classifier based on reds backend @machinelearning
+* cli-fuzzy - lots of good fuzzy string matchers - https://github.com/Yomguithereal/clj-fuzzy
+* fuzzy = https://github.com/mattyork/fuzzy = good fuzzy string matching for node
+* fuzzysearchjs = https://github.com/unlooped/FuzzySearchJS = modular search/fuzzy string match for js/node
 * decision-tree - ID3 algorithm (predictor)
 * dn = deep neural network learning library - MLP, RBM, DBN, CRBM, CDBN
 * fann = Fast Artificial Neural Network Library - neural network, connected and disconnected networks
 * fussy = @prediction and @recommendation engine
+* fuzzyset.js = http://glench.github.io/fuzzyset.js/ fuzzy string set for javascript	
 * gremlins.js is a monkey testing library written in JavaScript, for Node.js and the browser
 * jstat = jstat library = https://github.com/jstat/jstat = JavaScript Statistical Library
 * kmeans-js = k-means for node.js + browser
