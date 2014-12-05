@@ -1,0 +1,41 @@
+{
+    "name" : "renasar-sample",
+    "description" : "",
+    "version" : "0.1.0",
+    "author" : "Dave <dave@quicks.me>",
+    "contributors" : [],
+    "repository" : {
+        "type" : "git",
+        "url" : "git://github.com/davequick/renasar-sample.git"
+    },
+    "bugs" : "http://github.com/davequick/renasar-sample/issues",
+    "publishConfig" : {
+        "registry" : "https://registry.npmjs.org"
+    },
+    "engines" : {
+        "node" : "~0.10.22"
+    },
+    "dependencies": {
+        "express": "^4.0.0",
+        "body-parser": "^1.9.0",
+        "swaggerize-express": "^3.0.0"
+    },
+    "devDependencies": {
+        "tape": "^2.4.2",
+        "istanbul": "^0.2.3",
+        "jshint": "^2.4.1",
+        "enjoi": "^0.1.16" ,
+        "supertest": "^0.13.0"
+    },
+    "scripts": {
+        "test": "tape test/*.js",
+        "cover": "istanbul cover tape -- test/*.js",
+        "lint": "jshint -c .jshintrc lib/**/*.js"
+    },
+    "scripts" : {
+        "test" : "tape tests/*.js",
+        "cover" : "istanbul cover tape -- tests/*.js",
+        "lint" : "jshint -c .jshintrc index.js handlers models"
+    },
+    "main" : "./index"
+}

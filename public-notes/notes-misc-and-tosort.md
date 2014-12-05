@@ -1,9 +1,37 @@
 # misc notes
+* http://kriskowal.github.io/gtor/docs/task = task
+* https://github.com/kriskowal/gtor/blob/master/README.md = reactive = General Theory of Reactivity
 * compiler for javascript as JIT = https://github.com/balderdashy/waterline
 * json diffing = https://www.npmjs.org/package/json-diff
 * nodejs flamegraphs netflix = http://techblog.netflix.com/2014/11/nodejs-in-flames.html?utm_source=javascriptweekly&utm_medium=email
 * servers for hackers = https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/
 * sails http://sailsjs.org/#/documentation/concepts/Assets
+
+* graph visualization: http://www.graphviz.org/content/resources
+* https://code.google.com/p/logstalgia/ log file visualization (realtime?)
+* https://code.google.com/p/gource/ visualization of source code trees
+* traffic visualization https://unix4lyfe.org/darkstat/
+* traffic visualization http://www.macupdate.com/app/mac/40751/visualsniff
+ 
+
+
+ 
+
+## regex visualization
+* http://jex.im/regulex/#!embed=false&flags=&re=%5E(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd)(%5C.(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd))%7B3%7D%24
+ 
+## network
+* http://www.ntop.org/
+  * ntopng, the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntopng is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
+  * PF_RING ZC is a flexible 1/10 Gbit line-rate packet processing framework, implementing a clean API that can be used to create multi-thread, multi-process, multi-VM clusters. It can be considered as the successor of DNA/Libzero offering a consistent API based on the lessons learnt on the past few years.
+  * nProbe™ v7 = In commercial environments, NetFlow is probably the de-facto standard for network traffic accounting. ntop includes both a NetFlow v5/v9/IPFIX probe and collector that can be used to play with NetFlow flows. This means that you can use ntop:
+	•	
+
+* http://etherape.sourceforge.net/ = EtherApe is a graphical network monitor for Unix modeled after etherman. Featuring link layer, IP and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display.
+It supports Ethernet, FDDI, Token Ring, ISDN, PPP, SLIP and WLAN devices, plus several encapsulation formats. It can filter traffic to be shown, and can read packets from a file as well as live from the network.
+Node statistics can be exported.
+
+
  
 ## Ansible best practices
 * https://servercheck.in/blog/yaml-best-practices-ansible-playbooks-tasks
