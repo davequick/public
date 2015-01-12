@@ -53,3 +53,4 @@
 * The Web Never forgets = https://securehomes.esat.kuleuven.be/~gacar/persistent/index.html# = excellent overview of persistent tracking mechanisms
 * thinkful.com = online learning
 * v8 = https://code.google.com/p/v8/
+* vim = http://statico.github.io/vim.html = nice guide on vim

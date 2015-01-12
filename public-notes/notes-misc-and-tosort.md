@@ -1,4 +1,131 @@
+dot-object = dot-object makes it possible to transform and read (JSON) objects using dot notation.
+
+http://betterjs.org/ = strongly (stronger) typed javascript;
+
+# windows package management
+http://boxstarter.org/ <- windows 
+https://chocolatey.org/ < - uses this under covers
+http://www.hanselman.com/blog/isthewindowsuserreadyforaptget.aspx <- writeup on chocolatey
+a very typical install for basic windows box using it: https://gist.github.com/shanselman/969e190dcb21d9814c57
+
+# first 5 mins scripts
+* minecraft ansible = https://jonathan.porta.codes/2014/11/14/minecraft-server-management-with-ansible/
+* OS X ansible/bootstrap = http://osxc.github.io/
+* minecraft ansible repository https://github.com/edthedev/ansible-minecraft
+* minecraft on ubuntu https://gist.github.com/rdhyee/66f1aa40b6ea520c9e6e
+
+* 5 minute bootstrap = https://github.com/phred/5minbootstrap
+* 
+
+# podcasting
+* https://medium.com/@netik/podcasts-theyre-still-a-thing-a-how-to-ed4ec38b8fd1
+* 
+
+# rx
+* http://rxwiki.wikidot.com/101samples
+* http://aaronstacy.com/writings/reactive-programming-and-mvc/
+* introduction well done = https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+* rxjs, why and getting started = http://xgrommx.github.io/rx-book/WhyRx.html
+* video demo introduction = http://channel9.msdn.com/Blogs/Charles/Introducing-RxJS-Reactive-Extensions-for-JavaScript
+* rx at netflix = http://channel9.msdn.com/posts/Rx-and-Netflix
+* pragmatic rx = http://channel9.msdn.com/posts/Bart-De-Smet-Jafar-Hussain-Matthew-Podwysocki-Pragmatic-Rx
+* learn rxjs = https://github.com/jhusain/learnrx
+* rxjs koans = https://github.com/Reactive-Extensions/RxJSKoans
+* rxjs buildstuff workshop = https://github.com/Reactive-Extensions/BuildStuffWorkshop
+* rxjs source https://github.com/Reactive-Extensions/RxJS
+* rxjs observable doc = https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/observable.md
+* rx marble diagrams = http://rxmarbles.com/
+* rxjs vs. eventemitter = http://stackoverflow.com/questions/25338930/reactive-programming-rxjs-vs-eventemitter-in-node-js
+* eventstreams, bacon, rxjs, node = http://blog.carbonfive.com/2014/09/23/bacon-js-node-js-mongodb-functional-reactive-programming-on-the-server/
+* rxjs node integration doc page = https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/nodejs/nodejs.md
+* reactive in javascript = http://codebetter.com/matthewpodwysocki/2012/06/20/a-gentle-reintroduction-to-the-reactive-extensions-for-javascript-part-1/
+* beginners = http://msdn.microsoft.com/en-us/data/gg577611
+* design guidelines = https://github.com/Reactive-Extensions/RxJS/tree/master/doc/designguidelines
+* functional programming in javascript = https://github.com/jhusain/learnrx
+* 2 min intro = https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877
+* http://introtorx.com/ book
+* nom library, page and resources = https://www.npmjs.com/package/rx
+* codeplex home https://rxjs.codeplex.com/
+* hithub home = https://github.com/Reactive-Extensions/RxJS
+ 
+
+
+## stackoverflow 
+* local users = https://github.com/ninya-io/ninya.io
+* 
+## Javascript
+* es6  = http://people.mozilla.org/~jorendorff/es6-draft.html#sec-array-objects
+* array 'extras'= https://dev.opera.com/articles/javascript-array-extras-in-detail/
+* react = http://facebook.github.io/react/ = the v in mvc? React uses a virtual DOM diff implementation for ultra-high performance. It can also render on the server using Node.js — no heavy browser DOM required. https://github.com/fdecampredon/react-rxjs-todomvc , https://github.com/eliseumds/react-autocomplete ,  https://github.com/fdecampredon/rx-react , https://github.com/kmcclosk/reactjs-rxjs-example
+
+
+https://github.com/slotos/passport-reddit = passport scheme for reddit
+https://www.npmjs.com/package/redditor 
+A minimal wrapper for the reddit API. It manages the session tokens, rate limiting and JSON parsing, otherwise it just passes on the raw response from reddit.
+
+https://github.com/rockbot/node-for-beginners
+
+
+http://photoswipe.com/
+https://medium.com/@ThatBaldUXGuy/four-chrome-design-tools-i-cant-live-without-de90890e542
+http://getprismatic.com/story/1418743153295?utm_medium=email
+
+
+http://www.reddit.com/dev/api
+https://www.npmjs.com/package/rereddit
+reddit-stream https://www.npmjs.com/package/reddit-stream reddit-stream is a NodeJS module that provides a constant stream of posts and comments from reddit. This module usesraw.js to retrieve data from reddit.
+https://ssl.reddit.com/login?dest=https%3A%2F%2Fssl.reddit.com%2Fprefs%2Fapps%2F
+
+https://www.npmjs.com/package/flickrapi flickr
+https://www.npmjs.com/package/node-flickr
+https://www.npmjs.com/package/flickr
+	https://github.com/npm-flickr/flickr-generate-urls
+	
+
+https://www.npmjs.com/package/imgur-node-api
+
+
+text processing: 
+http://www.poynter.org/news/media-innovation/165347/8-apis-your-news-organization-should-start-using-today/
+http://www.opencalais.com/calaisAPI
+http://developer.usatoday.com/docs/read/Breaking_News
+https://developer.ap.org/
+http://www.programmableweb.com/category/News%20Services/apis?category=20250
+https://developers.google.com/news-search/?csw=1
+http://dev.datasift.com/docs/csdl
+
+https://www.npmjs.com/package/passport-imgur
+http://www.quora.com/How-does-Facebook-keep-pornography-off-their-site
+http://www.quora.com/What-are-the-best-algorithms-to-detect-porn-in-images
+http://www.quora.com/What-is-the-most-scalable-cost-effective-solution-for-photo-moderation
+http://www.quora.com/What-is-the-most-scalable-cost-effective-solution-for-photo-moderation
+https://www.npmjs.com/package/imgur-api
+https://www.npmjs.com/package/node-imgur
+https://www.npmjs.com/package/google-tools
+https://www.npmjs.com/package/passport-google-oauth2
+https://www.npmjs.com/package/passport-google-oauth2
+https://www.npmjs.com/package/gnews-sitemap
+https://www.npmjs.com/package/hacker-news-api
+https://www.npmjs.com/package/hacker-news-api
+https://www.npmjs.com/package/news
+https://www.npmjs.com/package/imgur-js
+http://www.reddit.com/dev/api
+http://blog.pusher.com/pusher-realtime-reddit-api/
+https://github.com/reddit/reddit/wiki/API
+https://www.reddit.com/dev/api
+https://github.com/reddit/reddit/wiki/API#rules
+https://github.com/reddit/reddit/wiki/API
+http://www.reddit.com/dev/api#GET_api_info
+
+
+ 
+
 # misc notes
+* https://github.com/joelvh/Sysmo.js = utilities including a arguments formatter/asserter
+* https://github.com/bruth/jsonpatch-js = json patching
+* http://javascript.crockford.com/remedial.html = types in javascript - detecting them
+* https://github.com/fpereiro/teishi = Tool for validating the input of functions
+* https://github.com/vukicevic/crunch = JavaScript arbitrary-precision arithmetic library. Built for speed.
 * http://kriskowal.github.io/gtor/docs/task = task
 * https://github.com/kriskowal/gtor/blob/master/README.md = reactive = General Theory of Reactivity
 * compiler for javascript as JIT = https://github.com/balderdashy/waterline
@@ -7,6 +134,10 @@
 * servers for hackers = https://serversforhackers.com/editions/2014/08/26/getting-started-with-ansible/
 * sails http://sailsjs.org/#/documentation/concepts/Assets
 
+DSL https://github.com/fpereiro/teishi
+storage abstraction https://github.com/balderdashy/waterline
+authorization https://github.com/derickbailey/mustbe
+
 * graph visualization: http://www.graphviz.org/content/resources
 * https://code.google.com/p/logstalgia/ log file visualization (realtime?)
 * https://code.google.com/p/gource/ visualization of source code trees
@@ -14,8 +145,48 @@
 * traffic visualization http://www.macupdate.com/app/mac/40751/visualsniff
  
 
-
+# json and json/yaml
+* http://jsonauts.github.io/
+* https://www.npmjs.com/package/yamljs
+* https://www.npmjs.com/package/stream-json
+* https://www.npmjs.com/package/json2json
+* https://github.com/zpoley/json-command
+* https://www.npmjs.com/package/convert-json
+* https://www.npmjs.com/package/gulp-json-transform
+* https://www.npmjs.com/package/csv-json-transform
+* https://www.npmjs.com/package/JSONStream	
  
+# front end
+* http://css.spritegen.com/
+* colors http://bada55.io/
+* blurred backgrounds = http://codepen.io/ariona/pen/geFIK
+* css progress bar = http://www.bypeople.com/css-progress-bar/
+* responsive interfaces framework = https://github.com/mrmrs/tachyons
+* suss editor = http://usetakana.com/
+* css transpiler = http://cssnext.github.io/
+* css plot = https://github.com/asciimoo/cssplot | css graph = http://jonassebastianohlsson.com/specificity-graph/
+* clean simple styling = http://www.csstyle.io/
+* minimal scss = http://leemunroe.github.io/motherplate/example.html
+* google material design / react comoponents = http://material-ui.com/#/
+* nth line = http://zencode.in/lining.js/
+* 
+
+    teishi.t = function (value) {
+      var type = typeof value;
+      if (type === 'number') {
+         if      (isNaN (value))      type = 'nan';
+         else if (! isFinite (value)) type = 'infinity';
+         else if (value % 1 === 0)    type = 'integer';
+         else                         type = 'float';
+      }
+      if (type === 'object') {
+         if (value === null)                                               type = 'null';
+         if (Object.prototype.toString.call (value) === '[object Array]')  type = 'array';
+         if (Object.prototype.toString.call (value) === '[object RegExp]') type = 'regex';
+      }
+      return type;
+   }
+
 
 ## regex visualization
 * http://jex.im/regulex/#!embed=false&flags=&re=%5E(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd)(%5C.(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd))%7B3%7D%24
