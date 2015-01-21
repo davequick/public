@@ -1,5 +1,5 @@
 dot-object = dot-object makes it possible to transform and read (JSON) objects using dot notation.
-
+http://plottablejs.org/
 http://betterjs.org/ = strongly (stronger) typed javascript;
 
 # windows package management
