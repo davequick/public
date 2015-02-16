@@ -12,10 +12,162 @@
 * https://code.google.com/p/gource/ visualization of source code trees
 * traffic visualization https://unix4lyfe.org/darkstat/
 * traffic visualization http://www.macupdate.com/app/mac/40751/visualsniff
- 
+
+http://reapp.io/ Make beautiful hybrid apps that feel great with React, Webpack and ES6.
+
+http://stack.gl/ and https://github.com/stackgl/packages = stackgl is an open software ecosystem for WebGL, built on top of browserify and npm. Inspired by the Unix philosophy, stackgl modules "do one thing, and do it well".
+
+https://github.com/Flipboard/react-canvas = High performance <canvas> rendering for React components
+
+http://getprismatic.com/story/1423032490185?utm_medium=email
+
+Immutable.js provides Persistent Immutable List, Stack, Map, OrderedMap, Set, OrderedSet and Record. They are highly efficient on modern JavaScript VMs by using structural sharing via hash maps tries and vector tries as popularized by Clojure and Scala, minimizing the need to copy or cache data. Immutable also provides a lazy Seq, allowing efficient chaining of collection methods like map and filter without creating intermediate representations. Create some Seq with Range and Repeat
+
+io.js is a JavaScript platform built on Chrome’s V8 runtime. This project began as a fork of Joyent’s Node.js™ and is compatible with the npm ecosystem. Why? io.js aims to provide faster and predictable release cycles. It currently merges in the latest language, API and performance improvements to V8 while also updating libuv and other base libraries. This project aims to continue development of io.js under an “open governance model” as opposed to corporate stewardship.
+Intercooler is a natural extension of HTML: simple attributes with a familiar syntax are all that is required to add AJAX requests to your application. Intercooler does use javascript to communicate with a server, but the events triggering the requests are described with HTML attributes (or are simply implied) rather than with imperative javascript.
+Matter.js is a JavaScript 2D rigid body physics engine for the web. The Matter.Engine module contains methods for creating and manipulating engines. An engine is a controller that manages updating and rendering the simulation of the world. Matter.js is currently only alpha status, meaning the API is still in development and may change occasionally. The library is reasonably stable as-is, but it is not yet feature complete.
+FormatJS is a modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people. It includes a set of core libraries that build on the JavaScript Intl built-ins and industry-wide i18n standards, plus a set of integrations for common template and component libraries.
+Anima.js gives you the ability to use delays and durations normally, even for pure CSS animations. It uses CSS transforms and 3d-transforms together with Javascript to create animation. You have full control over the flow, so you can start, stop, cancel animations and even create event-based stuff.
+is.js is a general-purpose check library without any dependency. You can check types, regexps, presence, time and more…
+
+is.js is a general-purpose check library without any dependency. You can check types, regexps, presence, time and more…
 
 
- 
+minBlock.js is a pure javascript canvas implementation of Matrix Grid. Primary application was to generate Github like random avatar.
+blinkTitle.js is a pure javascript implementation of titlebar alert or notification. It can perform blinking of html titlebar for titlebar aert or titlebar notification.
+Conditioner.js is a JavaScript library for loading and unloading behavior that’s environment aware. You just define the required state and Conditioner takes it from there.
+
+
+https://github.com/rauchg/wifi-password?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+
+Types.js is a tiny JavaScript library that checks and enforces value type rules. It can check one or multiple arguments simultaneously, and can force a value to be of some type, with an optional value if it fails to convert.
+css.js is a lightweight, battle tested, fast, css parser in JavaScript. It’s open source.
+SonnyJS is a minimalist Javascript library, designed to help developers and designers to create stunning single page websites. Sonny brings many beginner friendly features to improve websites appearance, reduce traffic and dramatically speed up everything.
+
+waterline
+http://sailsjs.org/#/documentation/reference/waterline/models/update.html
+http://sailsjs.org/#/documentation/concepts/ORM/Attributes.html
+http://sailsjs.org/#/documentation/concepts/ORM
+https://github.com/balderdashy/waterline-docs
+https://github.com/balderdashy/waterline
+
+
+timers
+https://github.com/andrasq/node-qtimers?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+https://github.com/andrasq/node-json-simple serializaes arrays as arrays, not objects
+
+https://github.com/caolan/highland = High-level streams library for Node.js and the browser http://highlandjs.org
+
+http://inria.github.io/sparklificator/ - Sparklificator is an open-source jQuery library that eases the process of integrating word-scale visualizations (including, but not limited to, sparklines) into HTML documents.
+http://vialab.science.uoit.ca/portfolio/fluxflow - viualization twitter anomoly
+http://bl.ocks.org/vicapow/d5f5afc1e182ee50c4a2 ocr neural net
+https://github.com/esbullington/react-d3 = modular react charts made in d3
+https://www.youtube.com/watch?v=2ii1lEkIv1s - React.js Conf 2015 - Scalable Data Visualization
+http://www.taucharts.com/ = javascript charting libraries in the world, but all of them are limited and just provide a set of charts you can use.
+                            Our goal — help people to build interactive complex visualizations easily.
+http://bl.ocks.org/wpoely86/e285b8e4c7b84710e463 = Diverging Stacked Bar Chart
+https://github.com/phanan/htaccess = usefull htaccess snippets
+https://github.com/HubPress/hubpress.io = HubPress is a free, open source tool to build your future awesome blog!
+
+https://github.com/baconjs/bacon.js A small functional reactive programming lib for JavaScript. Turns your event spaghetti into clean and declarative feng shui bacon, by switching from imperative to functional. It's like replacing nested for-loops with functional programming concepts like map and filter. Stop working on individual events and work with event streams instead. Combine your data with merge and combine. Then switch to the heavier weapons and wield flatMap and combineTemplate like a boss. It's the _ of Events. Too bad the symbol ~ is not allowed in JavaScript.
+
+https://github.com/andrasq/node-qcache = fast essential caches
+https://github.com/andrasq/node-qrusage = fast getrusage() binding to return process resource usage
+
+https://github.com/andrasq/node-mongobatch-js = Process large MongoDB collections in convenient smaller batches.
+https://github.com/andrasq/node-qmock = quick class and object mocking for unit tests
+https://github.com/andrasq/node-qlist - very fast double-ended queue
+https://github.com/andrasq/node-qheap = very fast binary heap priority queue
+https://github.com/andrasq/qlogger = quick nodejs logger and newline delimited data appender and transport
+https://github.com/andrasq/node-aflow = quick flow control
+https://github.com/andrasq/node-qfputs = fast buffered line-at-a-time output
+https://github.com/andrasq/arlib = fptime, getrusage, http_parse_query, http_build_query, timeit.fptime, timeit, str_repeat, phpdate, MongoId, tempnam, nodejs utilities
+
+
+
+   http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+http://www.cyfe.com/
+http://bimeanalytics.com
+http://www.thesunnytrail.com/
+www.gooddata.com
+ http://www.geckoboard.com/
+ BIME - bimeanalytics.com
+ Chartio - chartio.com
+ Cyfe - http://www.cyfe.com/
+ GeckoBoard - Page on geckoboard.com
+ GoodData - goodata.com
+ Infocaptor - Dashboard Software | Reporting Software | Excel Dashboards
+ KISS Metrics - http://kissmetrics.com
+ MixPanel - http://mixpanel.com
+ Panic Status Board - panic.com
+ Zebra BI - http://zebra.bi
+ http://www.quora.com/What-is-the-single-most-effective-metric-for-a-SaaS-business/answer/Boris-Krstovic
+ https://churnbee.com/#/
+ Chart.io
+http://mixpanel.com
+                        http://kissmetrics.com
+                        http://www.cyfe.com/
+
+https://www.npmjs.com/package/final-fs
+
+https://github.com/arasatasaygin/is.js
+ http://www.helpareporter.com/
+ http://www.justworks.com/
+ https://www.uservoice.com/for/startups/
+ http://mailchimp.com/
+ http://campayn.com/
+ https://madmimi.com/
+ https://www.surveymonkey.net/
+ http://contentlook.co/social-help
+ https://rapportive.com/
+ http://www.boomeranggmail.com/
+ https://www.streak.com/
+ https://hootsuite.com/
+ http://coschedule.com/
+ http://getstartuptools.com/
+ http://getstartuptools.com/
+ https://www.youtube.com/yt/playbook/
+ https://github.com/tylertreat/Comcast?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+ https://github.com/facebook/react?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
+ https://github.com/arasatasaygin/is.js
+ https://www.mooremedical.com/index.cfm?/Caregiver%AE-Professional-Infrared--Thermometer/&PG=CTL&CS=HOM&FN=ProductDetail&PID=25494&spx=1
+ http://www.amazon.com/Intel-BLKNUC5I5MYHE-NUC5I5MYHE-I5-5300U-CANYON/dp/B00S44YXFM/ref=sr_1_1?s=electronics&ie=UTF8&qid=1422641065&sr=1-1&keywords=NUC5I5MYHE
+ http://howmuchtomakeanapp.com/estimator
+ http://imgur.com/vidgif
+ https://postmates.com/
+ http://www.stitchitapp.com/
+ https://blog.engineyard.com/2015/measuring-clientside-javascript-test-coverage-with-istanbul
+ https://blog.engineyard.com/2015/mastering-this-in-javascript
+    http://www.wintellect.com/devcenter/jcarroll/why-you-should-be-writing-ecma-script-6-now
+    https://trello.com/
+    http://whatfix.com/
+    https://zapier.com/zapbook/apps/
+    http://influxdb.com/docs/v0.8/introduction/overview.html
+
+    http://www.opsgenie.com/
+    http://myphoneroom.com/
+    http://www.hoiio.com/
+    https://www.leftronic.com/
+    http://numerousapp.com/
+    https://www.kissmetrics.com/
+    http://databox.com/
+    https://www.leftronic.com/p/business-solutions/
+    https://ducksboard.com/pricing/
+    https://www.geckoboard.com/
+    https://choir.io/ = unlimmitted public
+    http://www.analyticcalltracking.com/
+    http://www.calldrip.com/
+    https://www.twilio.com/
+    http://www.mobyt.com/
+    https://www.clickatell.com/
+    https://www.sendhub.com/
+    http://www.catchwind.com/
+    http://appcenter.hoiio.com/
+    http://www.hoiio.com/
+    http://il.luminat.us/blog/2014/04/19/how-i-fully-automated-os-x-with-ansible/
+    http://www.eightbitraptor.com/post/bootstrapping-osx-ansible
+    http://osxc.github.io/
+
 
 ## regex visualization
 * http://jex.im/regulex/#!embed=false&flags=&re=%5E(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd)(%5C.(25%5B0-5%5D%7C2%5B0-4%5D%5Cd%7C1%5Cd%5Cd%7C%5B1-9%5D%3F%5Cd))%7B3%7D%24
