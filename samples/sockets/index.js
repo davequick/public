@@ -1,6 +1,10 @@
 var dgram = require("dgram");
 
 var server = dgram.createSocket("udp4");
+var PORT = 67;
+var LOCALBROADCAST = '192.168.1.255 ';
+var LOCALINTERFACEIP = '192.168.1.2';
+var INADDR_ANY = '0.0.0.0';
 
 server.on("error", function (err) {
     console.log("server error:\n" + err.stack);
@@ -12,11 +16,12 @@ server.on("message", function (msg, rinfo) {
     rinfo.address + ":" + rinfo.port);
 });
 
-server.on("listening", function () {
+server.on("listening", '0.0.0.0', function () {
     var address = server.address();
-    console.log("server listening " +
-    address.address + ":" + address.port);
+    console.log('UDP listening on ' + address.address + ":" + address.port);
+    server.setBroadcast(true)
+    server.setMulticastTTL(128);
 });
 
-server.bind(67);
-// server listening 0.0.0.0:41234
+server.bind(PORT);
+
