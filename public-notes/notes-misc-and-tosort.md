@@ -1,3 +1,27 @@
+https://github.com/lebinh/nginx-conf nginx configuration examples
+https://github.com/IonicaBizau/git-stats local git stats
+https://github.com/babel/babel = transpiler for es6
+https://github.com/sdelements/lets-chat local chat server
+
+http://javascriptplayground.com/blog/2015/02/promises/ - embracing promises
+https://github.com/veggiemonk/awesome-docker - docker resources
+https://github.com/robbyrussell/oh-my-zsh - zsh fast forward
+
+https://github.com/phanan/htaccess samples and clipping
+https://github.com/joewalnes/websocketd - any command line program out websockets
+
+https://github.com/rrrene/inchjs - doc grader
+https://github.com/atom/atomdoc = atoms doc processor
+http://tomdoc.org/ = another doc format
+
+http://highscalability.com/blog/2014/3/5/10-things-you-should-know-about-running-mongodb-at-scale.html = good basics to think about / talk about for mongo scale / perf / ops
+http://info.mongodb.com/rs/mongodb/images/MongoDB-Performance-Best-Practices.pdf = perf best practices for mongodb
+http://info.mongodb.com/rs/mongodb/images/10gen-MongoDB_Operations_Best_Practices.pdf = ops best practices mongodb
+https://github.com/taylorhakes/promise-polyfill - es6 polyfill for promise
+https://github.com/brianloveswords/throttle-function - throttle a function
+
+
+
 # misc notes
 * http://kriskowal.github.io/gtor/docs/task = task
 * https://github.com/kriskowal/gtor/blob/master/README.md = reactive = General Theory of Reactivity
